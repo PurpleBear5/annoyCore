@@ -17,3 +17,17 @@ MANIFEST
 *.annoy
 *.idx
 *.hdf5
+/.vs/annoyCore
+/.vs/annoyCore/FileContentIndex
+/.vs/annoyCore/FileContentIndex/061126a3-c62c-4c51-bb4c-5aaef098bb5b.vsidx
+/.vs/annoyCore/FileContentIndex/36ba0e86-dce2-4398-a2ee-bdbe88513f79.vsidx
+/.vs/annoyCore/v17
+/.vs/annoyCore/v17/.wsuo
+/.vs/annoyCore/v17/Browse.VC.db
+/.vs/annoyCore/v17/Browse.VC.db-shm
+/.vs/annoyCore/v17/Browse.VC.db-wal
+/.vs/annoyCore/v17/Browse.VC.opendb
+/.vs/CMake Overview
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
